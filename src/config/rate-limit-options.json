@@ -1,0 +1,5 @@
+{
+  "windowMs": 60000,
+  "max": 200,
+  "message": "Too many requests, please try again later."
+}
